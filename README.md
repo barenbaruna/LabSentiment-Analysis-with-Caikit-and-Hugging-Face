@@ -63,7 +63,7 @@ To set up and run the Sentiment Analysis project, follow these steps:
 #### Start the Runtime
     python start_runtime.py
 #### Run the Sentiment Analysis
-#### In another terminal tab, execute:
+##### In another terminal tab, execute:
     python client.py
 
 ## 📧 Support
