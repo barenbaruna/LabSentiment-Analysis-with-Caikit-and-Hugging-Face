@@ -7,7 +7,7 @@
 | Baren Baruna Harahap | MSIB Batch 6 (IBM Advance AI) | Ichsan Takwa       |
 
 
-Welcome to the Sentiment Analysis project using Caikit and Hugging Face! This project aims to demonstrate how to utilize the Caikit runtime to load and infer a sentiment analysis model provided by Hugging Face. By following this tutorial, you will gain insights into managing AI models efficiently through Caikit's developer-friendly APIs.
+Welcome to the Sentiment Analysis project using Caikit and Hugging Face! This project aims to demonstrate how to utilize the Caikit runtime to load and infer a sentiment analysis model provided by Hugging Face. By build this project, you will gain insights into managing AI models efficiently through Caikit's developer-friendly APIs.
 
 ## Overview
 
