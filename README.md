@@ -33,9 +33,9 @@ Before starting this project, ensure we have:
 
 We'll construct a Python project consisting of:
 
-- **Caikit runtime**: A data model representing the attributes of the AI model and a model wrapper facilitating model loading and execution.
-- **Client application**: Configured to query the AI model for text sentiment analysis using the Caikit runtime.
-- **Directory structure**:
+- 🛠️ **Caikit runtime**: A data model representing the attributes of the AI model and a model wrapper facilitating model loading and execution.
+- 🖥️ **Client application**: Configured to query the AI model for text sentiment analysis using the Caikit runtime.
+- 📁 **Directory structure**:
 
     ```plaintext
     text-sentiment/                  # Top-level package directory
